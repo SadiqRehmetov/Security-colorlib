@@ -1,0 +1,53 @@
+{
+  "services": [
+    {
+      "image": "../Image/s1.jpg.webp",
+      "heading": "Basic & Common Repairs",
+      "info": "Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical."
+    },
+    {
+      "image": "../Image/s2.jpg.webp",
+      "heading": "Brake Repairs & Services",
+      "info": "Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical."
+    },
+    {
+      "image": "../Image/s3.jpg.webp",
+      "heading": "Preventive Maintenance",
+      "info": "Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical."
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "image": "../Image/b1.jpg.webp",
+      "heading": "Addiction When Gambling Becomes A Problem",
+      "info": "inappropriate behavior ipsum dolor sit amet, consectetur."
+    },
+    {
+      "id": 2,
+      "image": "../Image/b2.jpg.webp",
+      "heading": "Addiction When Gambling Becomes A Problem",
+      "info": "inappropriate behavior ipsum dolor sit amet, consectetur."
+    },
+    {
+      "id": 3,
+      "image": "../Image/b3.jpg.webp",
+      "heading": "Addiction When Gambling Becomes A Problem",
+      "info": "inappropriate behavior ipsum dolor sit amet, consectetur."
+    },
+    {
+      "id": 4,
+      "image": "../Image/b4.jpg.webp",
+      "heading": "Addiction When Gambling Becomes A Problem",
+      "info": "inappropriate behavior ipsum dolor sit amet, consectetur."
+    }
+  ],
+  "favorites": [
+    {
+      "image": "data:image/webp;base64,UklGRjwEAABXRUJQVlA4IDAEAADwEgCdASo6ADoAPm0ylEekIyIhKBQKqIANiUAXozgap064LcA0Jw8H/Hv7WlNnB/VaOQe33y2Cmnjmnf9vzhfUyVSu4weZWAHs1dwrYFaY846kF4mtAVx2F2Dct6K9hbeGAFtoBRypfqRaTh9zIRjzGwl66alu1S+YOjIMGwH7j2+o6X4a7CAxVbMmhMbct5bTw0Em2ITudMfSk0yeycUAAP7/DdSU/WRgw3d/5RD/zReZtbwb+zmKuRfeB5eUOPDuNEpOXqAC/9xu802Q0E4nYBqYPaTgVuCP16pOtVTH7DvPiR9NBQWejJCgExOg0Sybn/JpUdZdaEIYew05IeN8luUhM2RdzzWd4ZLYShFcPA56SWEYevUvW14BlwvvfiJ/NwK5bSyAgCDVY02w5/fZxBajoX6bbCIMe7XGc9OOdiN+3hofrguQmPWeTXyDisT1zQs35e+DBAnn1lO2akO6TeELTcjI80exj7ZED04tl0AjL3cTFgRjvdkz27N91AMnletJ7sej7SXopqgfGp71yiCkJHmMUehXdDbF5jcpIwHYrfwrOb1tfSJwzIDHR8ocufoekHHv8QEEx+B68Q/5JZBrNSaH6Xw6XODe0sGj7Fnx30+prT0EO1bV5sWzBYepD1mItceFY3pY4zS5vgCLS/zMWx7NEY2VUoxpGFuWOIb2ho2EIuF+84WYayheF0oF08QDNPdEhSGaVNhpKvP57cv+ODyR/azwBhvHshFkOXGeFGpJL3YX0APExO5g9SbkqahMf1ZbZAe224H8/o1ZMQK9vApsg06cW1W53DlV2LdJMbi3P4TLR+fpDGAVKXpky0jY9dhlYhvkfoDRKBbtFSCp7vLOWMEaiTQ2fqUeLsaUfBVHkbdHMp2RRgD52BTVROfoOf7R4yFW0J2QHwZ3KaGVl/kjJPw76jRbp7X033imTtYG+9lgsNXr6Hnu+Z5ORrA/Al0JcvJgcl2ugD0zpbAURLLpPKZAy1pkCKE5qgJyYNTNBsAWdaXxT+eBeGfjsYAVPU/XQONjerz76TRdagLV9G7mETDBV7fZBBBeKnPLa/0qfB7EkEmEPN/fSOnf84TsF2fGEoU6JZ/m2hmm1ojeAXMR07xsutMSuNrUT1C/x5/h2+dWu++PgmbKFyo/ldVi4/8bwAdEXXl5yk9c9NblffbKdclsZwv2qyPNh7jd4hdw+2QDxpiKeh8zFk8yynaAnVPcWGwMA/WsPxizHr7BNOS/D4gWjGv4seRiq6H7z6YxL0ckfzet9GH44FxkSDyk5ExQP+YVmuKEBaPp4TcTD+I9OlLVLjMj04xUtQFaE3fSYVay0gdJM98rt6FI+qHexJcTuaYDsiSWdgnq1jsHViQgBxRvKel5Vqb39JKDGSzvgHzk20N82qved23g7M0Tu6WP9ylOKo75QAAA",
+      "heading": "Background ",
+      "info": "This is my work",
+      "id": 5
+    }
+  ]
+}
